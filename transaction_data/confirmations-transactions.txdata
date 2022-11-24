@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "confirmationsExists",
+        "transactionLabel": "A test confirmationsExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createConfirmations",
+        "transactionLabel": "A test createConfirmations transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readConfirmations",
+        "transactionLabel": "A test readConfirmations transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateConfirmations",
+        "transactionLabel": "A test updateConfirmations transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteConfirmations",
+        "transactionLabel": "A test deleteConfirmations transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
